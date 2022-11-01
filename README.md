@@ -43,7 +43,7 @@ Documentation
 To check out the sources and documentation, download the source from:
 
 <pre>
-https://github.com/fitancinpet/WMemPy
+https://github.com/ancinpet/WMemPy
 https://pypi.org/project/wmempy/#files
 </pre>
 
