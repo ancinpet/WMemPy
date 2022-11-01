@@ -1,0 +1,7 @@
+pywin32
+numpy==1.19.3
+click>=6
+pytest
+flexmock
+Cython
+setuptools

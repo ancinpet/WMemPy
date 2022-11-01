@@ -1,0 +1,10 @@
+include LICENSE
+include README.md
+include requirements.txt
+include docs/*
+include docs/_static/*
+include docs/_templates/*
+include examples/*
+include examples/*/*
+include tests/*
+include tests/*/*
